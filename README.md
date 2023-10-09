@@ -1,7 +1,7 @@
 # CLup
 CLup – Customers Line-up is an intuitive and essential application designed to address the challenges posed by overcrowding in stores during healthcare emergencies. On one hand, it empowers store managers to efficiently regulate the flow of customers within their establishments. On the other hand, it offers customers a hassle-free alternative to queuing for extended periods outdoors.
 
-It has been done as project in my course of Software Enginering 2, where we have presented its Requirement Analysis and Specification Document and Design Document, but not its implementation.
+It has been done as project in my course of Software Engineering 2, where we have presented its Requirement Analysis and Specification Document and Design Document, but not its implementation.
 
 Key Features:
 
